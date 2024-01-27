@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: msvc-student
+    name: msvc-Student
   datasource:
     driver-class-name: com.mysql.cj.jdbc.driver
     url: jdbc:mysql://localhost:3306/studentDb
